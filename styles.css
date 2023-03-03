@@ -1,0 +1,16 @@
+#mainContainer {
+    width: 1300px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    opacity: 1;
+    background-color: grey;
+    background-attachment: fixed;
+
+}
+
+div.trans {
+    margin: 30px;
+    background: rgba(0, 0, 0, 1);
+    color: white;
+}
